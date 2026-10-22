@@ -27,7 +27,7 @@ An audio captioning model with no audio encoder at inference. During training, a
 **Pruning for Efficiency, Paying in Fairness: Demographic Disparities in Pruned Speech-LLMs**<br>
 **G. P. K. B. Kolluri**, M. Kampouridis, R. Shekhar · *IMPACT-SPEECH Workshop at EMNLP 2026* (oral, to appear)<br>
 Compression results are usually reported as one average error rate. This paper measures how pruning a speech language model changes recognition error for each demographic group of speakers.<br>
-[Code](https://github.com/karthikbharadhwajKB/SpeechLLM-Pruning-Fairness)
+[arXiv](https://arxiv.org/abs/2609.38106) · [Code](https://github.com/karthikbharadhwajKB/SpeechLLM-Pruning-Fairness)
 
 **On the Role of Encoder Depth: Pruning Whisper and LoRA Fine-Tuning in SLAM-ASR**<br>
 **G. P. K. B. Kolluri**, M. Kampouridis, R. Shekhar · *Proc. SPEAKABLE Workshop at LREC 2026*<br>
