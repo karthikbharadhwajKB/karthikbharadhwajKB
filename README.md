@@ -1,6 +1,6 @@
 <div align="center">
 
-# Karthik Kolluri
+# Ganesh Pavan Kartikeya Bharadhwaj Kolluri (Karthik Kolluri)
 
 **PhD Researcher, University of Essex · AI Engineer (NLP), Hivedome Ltd.**<br>
 Compression, distillation, and fairness in speech and audio language models<br>
