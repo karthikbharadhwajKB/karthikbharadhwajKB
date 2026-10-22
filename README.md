@@ -27,12 +27,12 @@ An audio captioning model with no audio encoder at inference. During training, a
 **Pruning for Efficiency, Paying in Fairness: Demographic Disparities in Pruned Speech-LLMs**<br>
 **G. P. K. B. Kolluri**, M. Kampouridis, R. Shekhar · *IMPACT-SPEECH Workshop at EMNLP 2026* (oral, to appear)<br>
 Compression results are usually reported as one average error rate. This paper measures how pruning a speech language model changes recognition error for each demographic group of speakers.<br>
-[Code](https://github.com/KarthikKolluriKB/SpeechLLM-Pruning-Fairness)
+[Code](https://github.com/karthikbharadhwajKB/SpeechLLM-Pruning-Fairness)
 
 **On the Role of Encoder Depth: Pruning Whisper and LoRA Fine-Tuning in SLAM-ASR**<br>
 **G. P. K. B. Kolluri**, M. Kampouridis, R. Shekhar · *Proc. SPEAKABLE Workshop at LREC 2026*<br>
 Layer pruning of the Whisper encoder within SLAM-ASR: how word error rate changes with encoder depth, and how far LoRA fine-tuning of the language model recovers the loss.<br>
-[ACL Anthology](https://aclanthology.org/2026.speakable-1.20/) · [arXiv](https://arxiv.org/abs/2603.27981) · [Code](https://github.com/KarthikKolluriKB/SLAM-ASR-Encoder-Pruning-LoRA)
+[ACL Anthology](https://aclanthology.org/2026.speakable-1.20/) · [arXiv](https://arxiv.org/abs/2603.27981) · [Code](https://github.com/karthikbharadhwajKB/SLAM-ASR-Encoder-Pruning-LoRA)
 
 ## Projects
 
@@ -51,8 +51,8 @@ Layer pruning of the Whisper encoder within SLAM-ASR: how word error rate change
 ### Research code
 
 - [**CARD**](https://github.com/karthikbharadhwajKB/CARD): distillation and fine-tuning, inference, and checkpoints on the Hugging Face Hub for the IEEE SLT 2026 paper.
-- [**SpeechLLM-Pruning-Fairness**](https://github.com/KarthikKolluriKB/SpeechLLM-Pruning-Fairness): encoder pruning, projector retraining, and per-group evaluation on Common Voice and Fair-Speech.
-- [**SLAM-ASR-Encoder-Pruning-LoRA**](https://github.com/KarthikKolluriKB/SLAM-ASR-Encoder-Pruning-LoRA): code and configurations for the LREC 2026 SPEAKABLE paper on encoder depth.
+- [**SpeechLLM-Pruning-Fairness**](https://github.com/karthikbharadhwajKB/SpeechLLM-Pruning-Fairness): encoder pruning, projector retraining, and per-group evaluation on Common Voice and Fair-Speech.
+- [**SLAM-ASR-Encoder-Pruning-LoRA**](https://github.com/karthikbharadhwajKB/SLAM-ASR-Encoder-Pruning-LoRA): code and configurations for the LREC 2026 SPEAKABLE paper on encoder depth.
 
 ### Open source
 
