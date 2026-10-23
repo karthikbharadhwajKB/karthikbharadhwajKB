@@ -1,6 +1,6 @@
 <div align="center">
 
-# Karthik Kolluri
+# Ganesh Pavan Kartikeya Bharadwaj Kolluri (Karthik Kolluri)
 
 **PhD Researcher @ University of Essex | AI Engineer (NLP) @ Hivedome**<br>
 *Efficient Speech & Audio AI · Multimodal LLMs · Applied AI Systems*
