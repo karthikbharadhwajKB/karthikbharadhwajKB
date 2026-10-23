@@ -5,16 +5,22 @@
 **PhD Researcher, University of Essex · AI Engineer (NLP), Hivedome Ltd.**<br>
 Compression, distillation, and fairness in speech and audio language models
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=mIv1JY0AAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/karthik-bharadhwaj-1998kb/)
-[![Semantic Scholar](https://img.shields.io/badge/Semantic_Scholar-1857B6?style=for-the-badge&logo=semanticscholar&logoColor=white)](https://www.semanticscholar.org/author/Ganesh-Pavan-Kartikeya-Bharadwaj-Kolluri/2426796570)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-8549-4474)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/KarthikKB1998)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikbharadhwaj1998@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=mIv1JY0AAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/karthik-bharadhwaj-1998kb/)
+[![Semantic Scholar](https://img.shields.io/badge/Semantic_Scholar-1857B6?style=flat&logo=semanticscholar&logoColor=white)](https://www.semanticscholar.org/author/Ganesh-Pavan-Kartikeya-Bharadwaj-Kolluri/2426796570)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-8549-4474)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/KarthikKB1998)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:karthikbharadhwaj1998@gmail.com)
 
 </div>
 
-I compress speech and audio language models and measure what is lost, how much can be recovered, whether all speakers lose equally, and whether the encoder can be removed altogether. I am a PhD researcher at the University of Essex and an AI Engineer (NLP) at Hivedome Ltd., and before that I was a Machine Learning Engineer at Eidosmedia in Milan.
+I'm a **PhD researcher at the University of Essex and an AI Engineer (NLP) at Hivedome**, working at the intersection of efficient speech/audio language models, multimodal AI, and applied LLM systems.
+
+My research focuses on **model compression, knowledge distillation, and fairness in speech and audio language models**, investigating how to improve efficiency while preserving model performance and understanding its impact across different speaker groups. My work spans speech recognition, model pruning, and encoder-free audio captioning.
+
+In industry, I develop **agentic AI systems, retrieval-augmented generation (RAG) pipelines, and production-oriented ML solutions**. Previously, at Eidosmedia, I worked on domain-adapted language models, retrieval-based applications, and reinforcement-learning-driven newspaper pagination.
+
+**Research interests:** Speech & Audio AI · Multimodal LLMs · Model Compression · Knowledge Distillation · Fairness · RAG · Agentic AI
 
 ## Publications
 
@@ -29,7 +35,7 @@ Compression results are usually reported as one average error rate. This paper m
 [arXiv](https://arxiv.org/abs/2609.38106) · [Code](https://github.com/karthikbharadhwajKB/SpeechLLM-Pruning-Fairness)
 
 **On the Role of Encoder Depth: Pruning Whisper and LoRA Fine-Tuning in SLAM-ASR**<br>
-**G. P. K. B. Kolluri**, M. Kampouridis, R. Shekhar · *Proc. SPEAKABLE Workshop at LREC 2026*<br>
+**G. P. K. B. Kolluri**, M. Kampouridis, R. Shekhar · *SPEAKABLE Workshop at LREC 2026*<br>
 Layer pruning of the Whisper encoder within SLAM-ASR: how word error rate changes with encoder depth, and how far LoRA fine-tuning of the language model recovers the loss.<br>
 [ACL Anthology](https://aclanthology.org/2026.speakable-1.20/) · [arXiv](https://arxiv.org/abs/2603.27981) · [Code](https://github.com/karthikbharadhwajKB/SLAM-ASR-Encoder-Pruning-LoRA)
 
@@ -47,35 +53,19 @@ Layer pruning of the Whisper encoder within SLAM-ASR: how word error rate change
   Places articles on a page from an editorial page plan. It began as my MSc thesis at the University of Bologna, was trained and evaluated on a corpus of published newspapers built for the purpose, and went into production.<br>
   *Reinforcement learning · dataset construction*
 
-### Research code
+### Repositories
 
-- [**CARD**](https://github.com/karthikbharadhwajKB/CARD): distillation and fine-tuning, inference, and checkpoints on the Hugging Face Hub for the IEEE SLT 2026 paper.
-- [**SpeechLLM-Pruning-Fairness**](https://github.com/karthikbharadhwajKB/SpeechLLM-Pruning-Fairness): encoder pruning, projector retraining, and per-group evaluation on Common Voice and Fair-Speech.
-- [**SLAM-ASR-Encoder-Pruning-LoRA**](https://github.com/karthikbharadhwajKB/SLAM-ASR-Encoder-Pruning-LoRA): code and configurations for the LREC 2026 SPEAKABLE paper on encoder depth.
-
-### Open source
-
-- [**PaperReady**](https://github.com/karthikbharadhwajKB/PaperReady): web app that cleans LaTeX projects for arXiv and checks ACL papers with aclpubcheck.
-- [**Agents**](https://github.com/karthikbharadhwajKB/Agents): AI agent examples on the OpenAI Agents SDK, covering Gmail, Notion, YouTube, and an MCP server.
-- [**Langchain_OpenSearch_Hybrid_search**](https://github.com/karthikbharadhwajKB/Langchain_OpenSearch_Hybrid_search): hybrid (keyword and vector) and full-text search for LangChain's OpenSearch vector store.
-- [**Audio-LLMs**](https://github.com/karthikbharadhwajKB/Audio-LLMs): prototype ASR model that connects a Whisper encoder to an LLM.
+| Repository | Description |
+| :--- | :--- |
+| [**CARD**](https://github.com/karthikbharadhwajKB/CARD) | Code, models, and demo for the IEEE SLT 2026 paper on encoder-free audio captioning |
+| [**SpeechLLM-Pruning-Fairness**](https://github.com/karthikbharadhwajKB/SpeechLLM-Pruning-Fairness) | Encoder pruning, projector retraining, and per-group evaluation on Common Voice and Fair-Speech |
+| [**SLAM-ASR-Encoder-Pruning-LoRA**](https://github.com/karthikbharadhwajKB/SLAM-ASR-Encoder-Pruning-LoRA) | Whisper encoder pruning and LoRA recovery in SLAM-ASR (SPEAKABLE, LREC 2026) |
+| [**PaperReady**](https://github.com/karthikbharadhwajKB/PaperReady) | Web app that cleans LaTeX projects for arXiv and checks ACL papers with aclpubcheck |
+| [**Agents**](https://github.com/karthikbharadhwajKB/Agents) | AI agents on the OpenAI Agents SDK: Gmail, Notion, YouTube, and an MCP server |
+| [**Langchain_OpenSearch_Hybrid_search**](https://github.com/karthikbharadhwajKB/Langchain_OpenSearch_Hybrid_search) | Hybrid (keyword and vector) and full-text search for LangChain's OpenSearch vector store |
+| [**Audio-LLMs**](https://github.com/karthikbharadhwajKB/Audio-LLMs) | Prototype ASR model that connects a Whisper encoder to an LLM |
 
 ## Skills
-
-<p>
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="44" alt="Python" /></a>
-  <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="44" alt="PyTorch" /></a>
-  <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="44" alt="TensorFlow" /></a>
-  <a href="https://scikit-learn.org"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="44" alt="scikit-learn" /></a>
-  <a href="https://dart.dev"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="44" alt="Dart" /></a>
-  <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="44" alt="Flutter" /></a>
-  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="44" alt="Bash" /></a>
-  <a href="https://www.kernel.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="44" alt="Linux" /></a>
-  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="44" alt="Git" /></a>
-  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="44" alt="GitHub" /></a>
-  <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="44" alt="AWS" /></a>
-  <a href="https://www.latex-project.org"><img src="https://skillicons.dev/icons?i=latex&theme=dark" width="44" alt="LaTeX" /></a>
-</p>
 
 | Area | Tools |
 | :--- | :--- |
